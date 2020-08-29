@@ -4,5 +4,6 @@ def square_array(array)
   |number| number ** 2
   number += 1
 end
+end
 
 puts square_array(array)
